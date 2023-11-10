@@ -1,8 +1,4 @@
-import { loadEnv } from "vite";
-
 export default function staticAssets() {
-    process.env = {...process.env, ...loadEnv(null, process.cwd())};
-
     return {
         name: 'static-assets',
         configResolved(config) {
