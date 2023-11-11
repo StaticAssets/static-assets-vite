@@ -1,4 +1,4 @@
-export default function staticAssets() {
+function staticAssets() {
     return {
         name: 'static-assets',
         configResolved(config) {
@@ -9,3 +9,4 @@ export default function staticAssets() {
     }
 }
 
+module.exports = staticAssets;
