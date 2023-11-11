@@ -1,0 +1,27 @@
+{
+  "name": "@static-assets/static-assets-vite",
+  "version": "1.0.0",
+  "description": "Vite helper for Static Assets",
+  "main": "static-assets-vite-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StaticAssets/static-assets-vite.git"
+  },
+  "peerDependencies": {
+    "vite": "^4.0.0"
+  },
+  "keywords": [
+    "Vite",
+    "Static",
+    "Assets"
+  ],
+  "author": "ben@initdev.com.au",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StaticAssets/static-assets-vite/issues"
+  },
+  "homepage": "https://github.com/StaticAssets/static-assets-vite#readme"
+}
