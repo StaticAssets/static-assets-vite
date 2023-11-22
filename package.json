@@ -1,5 +1,5 @@
 {
-  "name": "@static-assets/static-assets-vite",
+  "name": "@static-assets/vite",
   "version": "1.0.1",
   "description": "Vite helper for Static Assets",
   "main": "static-assets-vite-plugin.js",
