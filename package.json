@@ -1,6 +1,6 @@
 {
   "name": "@static-assets/vite",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Vite helper for Static Assets",
   "main": "static-assets-vite-plugin.js",
   "scripts": {
